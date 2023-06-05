@@ -1,0 +1,45 @@
+body {
+  background-image: url(/index/css/img/fundo.jpg);
+}
+
+.titulo {
+  background-color: rgb(0, 11, 71);
+  border: 3px solid rgb(255, 255, 255);
+}
+h1 {
+  color: rgb(255, 255, 255);
+  font-size: 25px;
+}
+
+.imagemum {
+  font-size: 15px;
+  margin-right: 1025px;
+  margin-top: 150px;
+  margin-left: 100px;
+}
+
+.pc {
+  margin-top: 0px;
+  margin-left: 100px;
+  border-radius: 40%;
+}
+
+.imagemdois {
+  font-size: 20px;
+
+  margin-right: 630px;
+  margin-top: -260px;
+  margin-left: 600px;
+}
+
+.processador {
+  height: 190px;
+  width: 200px;
+  margin-left: 600px;
+}
+
+a {
+  color: red;
+  text-decoration: none;
+  background: transparent;
+}
